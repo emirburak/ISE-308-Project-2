@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bekar_Emir_Burak_Footballer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="footballer_name">Footballer Name:</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="footballer_surname">Footballer Surname:</string>
+    <string name="enter_surname_here">Enter surname here</string>
+    <string name="footballer_age">Footballer age:</string>
+    <string name="enter_age_here">Enter age here</string>
+    <string name="select_footballer_position">Select Footballer Position:</string>
+    <string name="is_footballer_available_for_playing">Is Footballer Available for Playing:</string>
+    <string name="add_new_footballer">Add New Footballer</string>
+    <string name="enter_team_name_here">Enter team name here</string>
+    <string name="footballer_team_name">Footballer Team Name:</string>
+    <string name="edit_footballer">Edit Footballer</string>
+    <string name="add">Add</string>
+    <string-array name="positionsArray">
+        <item>Select One</item>
+        <item>Goalkeeper</item>
+        <item>Full-back</item>
+        <item>Wing-back</item>
+        <item>Centre-back</item>
+        <item>Defensive midfielder</item>
+        <item>Attacking midfielder</item>
+        <item>Winger</item>
+        <item>Forward</item>
+        <item>Striker</item>
+    </string-array>
+</resources>
